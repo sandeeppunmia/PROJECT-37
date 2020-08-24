@@ -124,7 +124,7 @@ obstaclesGroup.destroyEach();
 cloudsGroup.destroyEach();
 count = 0;
 trex.addImage(trexImg);
-trex.scale = 0.5;
+trex.scale = 1;
 }
 
   
